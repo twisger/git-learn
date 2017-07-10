@@ -1,3 +1,8 @@
 function function_name (argument) {
-     // body...  
+     let a = ''; 
+     let a = ''; 
+     let a = ''; 
+     let a = ''; 
+     let a = ''; 
 }
+
